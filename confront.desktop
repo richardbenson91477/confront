@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Confront
+Comment=Joystick/Keyboard controlled app launcher
+Exec=confront
+Icon=confront
+Categories=Utility;
